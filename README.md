@@ -16,3 +16,5 @@ It consists of reading tweets on a minitel and also publishing tweets via the mi
 https://twitter.com/minitelontweet
 
 You will find a depper explaination of how did we do even if for the OS version we found a better instalation without arduino card and C++ code...
+
+Feel free to ask for more details
