@@ -11,6 +11,8 @@ The services are not implemented due to the stopped developpement of the API.
 
 If you are interessed you can also check our first project on minitel named "Minitel revival":
 https://github.com/epitech-toulouse/minitel-revival
+
 It consists of reading tweets on a minitel and also publishing tweets via the minitel twitter account @MinitelOnTweet:
 https://twitter.com/minitelontweet
+
 You will find a depper explaination of how did we do even if for the OS version we found a better instalation without arduino card and C++ code...
