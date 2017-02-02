@@ -11,7 +11,7 @@ At the origin this project is a school project proposed by the "hub innovation" 
 The purpose of this project is to be able to connect to a wifi by choosing a SSID and typing the apropriate password on a minitel. After this step the UI display on the screen a menu where the user can choose ether to use a service or to type an URL. The web site behind the URL will be printed and the user will be able to read a web page on a minitel!
 The services are not implemented due to the stopped developpement of the API.
 
-# Another minitel project 
+## Another minitel project 
 
 If you are interessed you can also check our first project on minitel named "Minitel revival":
 https://github.com/epitech-toulouse/minitel-revival
